@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align=center>
   
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=👋%20I'm%20YongHo!&fontAlignY=40&color=gradient)
@@ -19,7 +17,7 @@
 
   
 ![DLo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-YongHo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-YongHo&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-YongHo&theme=transparent&layout=compact&lang_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
