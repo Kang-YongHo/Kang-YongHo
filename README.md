@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Java Spring Back-End Developer
+- 🌱 I’m currently learning Many Things for Good Life
+- 💬 Ask me about What Musics in My PlayList
+- 📫 How to reach me: isnatch90@gmail.com
+- 
 <!--
 **Kang-YongHo/Kang-YongHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
