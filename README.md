@@ -17,7 +17,7 @@
 
   
 ![DLo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-YongHo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-YongHo&theme=transparent&layout=compact&lang_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-YongHo&theme=transparent&layout=compact&lang_count=8&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
