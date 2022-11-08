@@ -5,6 +5,7 @@
 - 💬 Ask me about What Musics in My PlayList
 - 📫 How to reach me: isnatch90@gmail.com
 
+![DLo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-YongHo&show_icons=true&theme=radical)
 <!--
 **Kang-YongHo/Kang-YongHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
