@@ -20,10 +20,10 @@
   
 </div>
 
-<div>
+
 ![DLo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-YongHo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-YongHo&layout=compact)
-</div>
+
 <!--
 **Kang-YongHo/Kang-YongHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
