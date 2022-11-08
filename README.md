@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-
 <div align=center>
   
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=👋%20I'm%20YongHo!&fontAlignY=40&color=gradient)
 
-  
 ## 🛠 stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
@@ -18,11 +16,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)<br>
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white)
-
-</div>
-
-
-
 
 - 🔭 I’m currently working on Java Spring Back-End Developer as a FreeLancer
 - 🌱 I’m currently learning Many Things for Good Life
@@ -44,3 +37,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
