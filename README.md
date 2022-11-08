@@ -17,11 +17,6 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)<br>
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white)
 
-- 🔭 I’m currently working on Java Spring Back-End Developer as a FreeLancer
-- 🌱 I’m currently learning Many Things for Good Life
-- 💬 Ask me about What Musics in My PlayList
-- 📫 How to reach me: isnatch90@gmail.com
-
 ![DLo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-YongHo&show_icons=true&theme=radical)
 <!--
 **Kang-YongHo/Kang-YongHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
