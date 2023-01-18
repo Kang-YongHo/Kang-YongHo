@@ -15,10 +15,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Vue](https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)<br>
   
-[![DLo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-YongHo)]()
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-YongHo&theme=transparent&layout=compact&lang_count=8&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
+[![DLo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-YongHo)]()
 
 
 <!--
